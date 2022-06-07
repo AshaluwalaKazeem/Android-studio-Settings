@@ -12,6 +12,40 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R58M458XTVH" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975U1" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.43.65.118:5555" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975U1" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.79.76.22:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-07T10:41:40.765809Z" />
+        <name value="samsung SM-G975U1" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
