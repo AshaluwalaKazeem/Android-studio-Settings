@@ -45,6 +45,18 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.168.13.144:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-10T09:45:35.444386Z" />
+        <name value="samsung SM-G975U1" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
