@@ -26,9 +26,13 @@
           <option name="url" value="https://github.com/AshaluwalaKazeem/Funaab-Post-Utme-App-New.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AshaluwalaKazeem/MultiSessionUSSDDialer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects/Punch" />
+    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
