@@ -1,5 +1,5 @@
 <application>
   <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;10.205.124.204:5555&quot;,&quot;serialNumber&quot;:&quot;R58M458XTVH&quot;,&quot;name&quot;:&quot;samsung SM-G975U1&quot;,&quot;address&quot;:&quot;10.205.124.204&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;12&quot;,&quot;apiLevel&quot;:&quot;31&quot;}]" />
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;10.245.118.208:5555&quot;,&quot;serialNumber&quot;:&quot;R58M458XTVH&quot;,&quot;name&quot;:&quot;samsung SM-G975U1&quot;,&quot;address&quot;:&quot;10.245.118.208&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;12&quot;,&quot;apiLevel&quot;:&quot;31&quot;}]" />
   </component>
 </application>
